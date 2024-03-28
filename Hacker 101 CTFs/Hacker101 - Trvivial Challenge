@@ -1,0 +1,8 @@
+Hacker101 - Trvivial Challenge 
+
+Name: A little something to get you started	
+Skills: Web
+Flag: 3eda6903fdbb7d5783376a342a7fbeef8581b8802d375be831cb9498daafe944
+
+Challenge; View source code to realize there is an extension to the background image 
+by adding the file name to the end of the url we are able to get the flag.
